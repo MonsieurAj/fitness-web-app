@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fitness-web-app/static/css/main.3170b705.css",
+    "main.js": "/fitness-web-app/static/js/main.caa0082f.js",
+    "static/js/787.5d052047.chunk.js": "/fitness-web-app/static/js/787.5d052047.chunk.js",
+    "static/media/footer.png": "/fitness-web-app/static/media/footer.27eb47c15555f810a46a.png",
+    "static/media/slider2.png": "/fitness-web-app/static/media/slider2.8cbdcf48a6e1c9d22fd6.png",
+    "static/media/slider1.png": "/fitness-web-app/static/media/slider1.c22d4d0e4e7288c050ac.png",
+    "static/media/slider3.png": "/fitness-web-app/static/media/slider3.832b23adc9aa6bd7c765.png",
+    "static/media/slider7.png": "/fitness-web-app/static/media/slider7.f201b335c7c46baee5bc.png",
+    "static/media/slider5.png": "/fitness-web-app/static/media/slider5.4b3ebd9e44201f6e88f6.png",
+    "static/media/sweat.png": "/fitness-web-app/static/media/sweat.6ced06bd74057c585cf0.png",
+    "static/media/logo.png": "/fitness-web-app/static/media/logo.5ec9ec36569c76950b6e.png",
+    "static/media/su.jpg": "/fitness-web-app/static/media/su.89e6c21bdcbef46e036c.jpg",
+    "index.html": "/fitness-web-app/index.html",
+    "main.3170b705.css.map": "/fitness-web-app/static/css/main.3170b705.css.map",
+    "main.caa0082f.js.map": "/fitness-web-app/static/js/main.caa0082f.js.map",
+    "787.5d052047.chunk.js.map": "/fitness-web-app/static/js/787.5d052047.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3170b705.css",
+    "static/js/main.caa0082f.js"
+  ]
+}
